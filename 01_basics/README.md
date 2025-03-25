@@ -65,3 +65,26 @@ print(new_string)  # Output: "jello"
 - Funtions, modules, classes
 
 - Advance: Decorators, Generators, Iterators, MetaProgramming
+
+
+
+# Numeric
+a = 10          # int
+b = 3.14        # float
+c = 2 + 3j      # complex
+
+# Sequences
+s = "Hello"     # str
+l = [1, 2, 3]   # list
+t = (4, 5, 6)   # tuple
+
+# Mapping
+d = {"key": "value"}  # dict
+
+# Sets
+s1 = {1, 2, 2}  # set (becomes {1, 2})
+fs = frozenset([1, 2])  # frozenset
+
+# Boolean and None
+flag = True     # bool
+n = None        # NoneType
