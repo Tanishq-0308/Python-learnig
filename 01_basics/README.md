@@ -88,3 +88,26 @@ fs = frozenset([1, 2])  # frozenset
 # Boolean and None
 flag = True     # bool
 n = None        # NoneType
+
+
+
+
+![Screenshot 2025-02-13 143944](https://github.com/user-attachments/assets/cc1cc822-998e-4818-81ee-8e50c17180e2)
+![Screenshot 2025-05-01 192447](https://github.com/user-attachments/assets/c2f2ab36-ace9-4158-a5f0-a88e6cc1efa5)
+
+
+# slicing
+
+h1= [1,2,3]
+h2= h1[0:1]
+h2 will be [1]
+
+# copy using slicing
+
+h1=[1,2,3]
+h2= h1[:]
+h2 will be [1,2,3]
+
+
+m == n checks the value is equal or not
+m is n checks the reference is same or not
