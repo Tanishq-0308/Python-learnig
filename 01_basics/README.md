@@ -92,7 +92,6 @@ n = None        # NoneType
 
 
 
-![Screenshot 2025-02-13 143944](https://github.com/user-attachments/assets/cc1cc822-998e-4818-81ee-8e50c17180e2)
 ![Screenshot 2025-05-01 192447](https://github.com/user-attachments/assets/c2f2ab36-ace9-4158-a5f0-a88e6cc1efa5)
 
 
